@@ -28,6 +28,14 @@ var questions = [
 	{
 		question: 'My favourite Movie? ',
 		answer: 'Avengers'
+	},
+  {
+		question: 'My favourite super hero? ',
+		answer: 'iron man'
+	},
+  {
+		question: 'My age? ',
+		answer: '23'
 	}
 ];
 
